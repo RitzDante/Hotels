@@ -1,4 +1,4 @@
 # Lagoona web design
-[View website](index.html)
+[View website](https://ritzdante.github.io/Hotels/)
 
 ![Lagoona](sreenshots/hotels-sreen.png)
